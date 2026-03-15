@@ -61,22 +61,18 @@ a.   KVL:
 
 b.  KCL:
 
-
-
+![alt text](<WhatsApp Image 2026-03-15 at 8.52.01 AM (1)-1.jpeg>)
+![alt text](<WhatsApp Image 2026-03-15 at 8.52.02 AM (1)-1.jpeg>)
 
 Tabulation:
 
 a.   KVL:
  
-![alt text](<WhatsApp Image 2026-03-15 at 8.53.12 AM.jpeg>)
-![alt text](<WhatsApp Image 2026-03-15 at 8.52.01 AM.jpeg>)
-
+![alt text](<WhatsApp Image 2026-03-15 at 8.17.34 AM (1).jpeg>)
 
 b.  KCL:
 
-![alt text](<WhatsApp Image 2026-03-15 at 8.52.01 AM (1).jpeg>)
-![alt text](<WhatsApp Image 2026-03-15 at 8.52.02 AM (1).jpeg>)
-
+![alt text](<WhatsApp Image 2026-03-15 at 8.17.35 AM.jpeg>)
 
 RESULT:
 
