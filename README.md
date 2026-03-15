@@ -52,7 +52,7 @@ a.   KVL:
 b.  KCL:
  
 ![alt text](<WhatsApp Image 2026-03-15 at 8.17.34 AM (2).jpeg>)
-![alt text](<Screenshot (245).png>)
+![alt text](new.png)
 
 
 Calculation:
